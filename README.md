@@ -32,3 +32,5 @@ The courses enlisted in this specialization are as follows:
 - [x] __Applied Data Science Capstone [Go To Course](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)__
 
 <br>
+
+My Certificate : https://coursera.org/share/8414d80d2ecde1743d47773514f2bd22
